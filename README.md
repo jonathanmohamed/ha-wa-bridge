@@ -331,7 +331,7 @@ docker-compose up -d
 #### Option A: HACS (Recommended)
 1.  Make sure [HACS](https://hacs.xyz/) is installed.
 2.  Go to HACS > Integrations > Top-right menu > **Custom repositories**.
-3.  Add `https://github.com/raulpetruta/ha-wa-bridge` as an **Integration**.
+3.  Add `https://github.com/jonathanmohamed/ha-wa-bridge` as an **Integration**.
 4.  Click **Download**.
 5.  Restart Home Assistant.
 
